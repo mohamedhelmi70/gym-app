@@ -1,4 +1,4 @@
-#Gym mobile application.
+# GYM Application.
 
 
 ## screen 1 -> GYM Page
