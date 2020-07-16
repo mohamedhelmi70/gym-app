@@ -1,12 +1,6 @@
 # GYM Application.
 
 
-## screen 1 -> GYM Page
+![Gym Screen](https://raw.githubusercontent.com/mohamedhelmi70/gym-app/master/src/assets/Screens/screen1.jpg "Gym Screen")
 
-
-
-![alt text](https://github.com/mohamedhelmi70/gym-app/blob/master/screen1.png?raw=true)
-
-## screen 2 -> Session Page
-
-![alt text](https://github.com/mohamedhelmi70/gym-app/blob/master/screen2.png?raw=true)
+![Session Screen](https://raw.githubusercontent.com/mohamedhelmi70/gym-app/master/src/assets/Screens/screen2.jpg "Session Screen")
