@@ -30,8 +30,6 @@ function Sessions ({route}) {
     );
 };
 
-const styles = StyleSheet.create({
-    container: {paddingTop: 40},
-});
+const styles = StyleSheet.create({});
 
 export default Sessions;

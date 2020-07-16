@@ -21,8 +21,8 @@ function SessionHeader ({backgroundSource, lastClientName, sessionName, level}) 
 
 const styles = StyleSheet.create({
     container: {
-        height: 241,
-        maxHeight: 241,
+        height: 250,
+        maxHeight: 250,
         zIndex: 1,
     },
     overlay: {
@@ -35,7 +35,7 @@ const styles = StyleSheet.create({
         backgroundColor: "transparent",
         paddingHorizontal: 18,
         justifyContent: "flex-start",
-        paddingTop: 40,
+        paddingTop: 60,
     },
     caption: {
         fontSize: 16,
