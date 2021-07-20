@@ -19,7 +19,7 @@
     "babel-plugin-inline-import": "^3.0.0",
     "prop-types": "^15.7.2",
     "react": "16.13.1",
-    "react-native": "0.63.0",
+    "react-native": "0.64.1",
     "react-native-gesture-handler": "^1.6.1",
     "react-native-paper": "^3.10.1",
     "react-native-reanimated": "^1.9.0",
